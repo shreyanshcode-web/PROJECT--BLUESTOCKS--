@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.DS_Store
+Bluestock_MF_Datasets/
